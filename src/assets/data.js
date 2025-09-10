@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "Qual é o nome do parque temático onde se passa o filme Jurassic World (2015)?",
+      option1: "Isla Nublar Park",
+      option2: "Jurassic Kingdom",
+      option3: "Jurassic World",
+      option4: "Dino Island",
+      ans: 3,
+    },
+    {
+      question: "Quem é o treinador dos velociraptores no filme?",
+      option1: "Simon Masrani",
+      option2: "Owen Grady",
+      option3: "Alan Grant",
+      option4: "Henry Wu",
+      ans: 2,
+    },
+    {
+      question: "Qual dessas espécies de dinossauro é aquática e aparece puxando um tubarão em Jurassic World?",
+      option1: "Plesiossauro",
+      option2: "Tylossauro",
+      option3: "Mosassauro",
+      option4: "Megalodonte",
+      ans: 3,
+    },
+    {
+      question: "Qual atriz interpreta Claire Dearing, gerente de operações do parque?",
+      option1: "Jessica Chastain",
+      option2: "Bryce Dallas Howard",
+      option3: "Emma Stone",
+      option4: "Amy Adams",
+      ans: 2,
+    },
+    {
+      question: "O que acontece com o Indominus Rex no final do primeiro filme Jurassic World (2015)?",
+      option1: "Ele escapa da ilha",
+      option2: "É capturado e colocado em contenção",
+      option3: "Explode em um laboratório",
+      option4: "É morto por um Mosassauro",
+      ans: 4,
+    },
+  ];
